@@ -6,19 +6,11 @@
 
 <p align="center"> <a href="https://twitter.com/n3xt100" target="blank"><img src="https://img.shields.io/twitter/follow/n3xt100?logo=twitter&style=for-the-badge" alt="n3xt100" /></a> </p>
 
-- 🔭 Ik ben momenteel aan het werken aan mijn [portfolio](https://87283.stu.sd-lab.nl/portfolio/)
-
-- 🌱 Ik ben momenteel de volgende talen aan het leren: **PHP, React, Node.JS**
-
-- 👨‍💻 Al mijn projecten zijn te zien op [https://87283.stu.sd-lab.nl/portfolio/](https://87283.stu.sd-lab.nl/portfolio/)
-
-- 💬 Vraag mij over **HTML, CSS, Javascript**
-
-- 📫 Contacteer mij via **joffreyv2003@gmail.com**
-
-- 📄 Zie mijn CV: [https://87283.stu.sd-lab.nl/portfolio/](https://87283.stu.sd-lab.nl/portfolio/)
-
-- ⚡ Fun fact: **Ik vind mijzelf erg grappig**
+<p align="center">🔭 Ik ben momenteel aan het werken aan mijn [portfolio](https://87283.stu.sd-lab.nl/portfolio/)</p>
+<p align="center">🌱 Ik ben momenteel de volgende talen aan het leren: **PHP, React, Node.JS**</p>
+<p align="center">👨‍💻 Zie mijn portfolio [https://87283.stu.sd-lab.nl/portfolio/](https://87283.stu.sd-lab.nl/portfolio/)</p>
+<p align="center">📫 Contacteer mij via **contact@joffreyverschoor.nl**</p>
+<p align="center">👨‍💻 Fun fact: **Ik vind mijzelf erg grappig**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
