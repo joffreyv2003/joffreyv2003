@@ -2,7 +2,7 @@
 <h1 align="left">Hoi 👋, Mijn naam is Joffrey Verschoor</h1>
 <h3 align="left">Een gepassioneerde developer uit Nederland.</h3><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joffreyv2003&label=Profile%20views&color=0e75b6&style=flat" alt="joffreyv2003" /> <img src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1/custom-icon-badges?logo=star" alt="joffreyv2003" /> <img src="https://custom-icon-badges.demolab.com/github/last-commit/DenverCoder1/custom-icon-badges?logo=history&logoColor=white" /> <img src="https://custom-icon-badges.demolab.com/github/license/denvercoder1/custom-icon-badges?logo=law" /> <img src="https://custom-icon-badges.demolab.com/chrome-web-store/rating/ogffaloegjglncjfehdfplabnoondfjo?logo=thumbsup&logoColor=white" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joffreyv2003&label=Profile%20views&color=0e75b6&style=flat" alt="joffreyv2003" /> <img src="https://custom-icon-badges.demolab.com/github/stars/joffreyv2003/joffreyv2003?logo=star" alt="joffreyv2003" /> <img src="https://custom-icon-badges.demolab.com/github/last-commit/joffreyv2003/joffreyv2003?logo=history&logoColor=white" /> <img src="https://custom-icon-badges.demolab.com/github/license/joffreyv2003/joffreyv2003?logo=law" /> </p>
 
 <p align="left"> <a href="https://twitter.com/n3xt100" target="blank"><img src="https://img.shields.io/twitter/follow/n3xt100?logo=twitter&style=for-the-badge" alt="n3xt100" /></a> <a href="https://github.com/joffreyv2003?tab=repositories" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo" /></a> </p><br>
 
