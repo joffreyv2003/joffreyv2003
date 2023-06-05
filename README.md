@@ -40,6 +40,11 @@ Wees dus gerust om mij te contacteren als er enige vragen zijn, of om bijvoorbee
 <details>
 
   <summary><h3 align="left">📈 Statistieken</h3></summary>
-<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=joffreyv2003&" alt="joffreyv2003" /></p>
+  
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joffreyv2003&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=nl&layout=compact" alt="joffreyv2003" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=joffreyv2003&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=nl" alt="joffreyv2003" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joffreyv2003&theme=dark" alt="joffreyv2003" /></p>
   
 </details>
