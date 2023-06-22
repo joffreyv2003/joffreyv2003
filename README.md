@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/FiRVwhO.png)](https://joffreyverschoor.nl)
+[![MasterHead](https://i.imgur.com/QffG49C.png)](https://joffreyverschoor.nl)
 <h1 align="left">Hoi 👋, Mijn naam is Joffrey Verschoor</h1>
 <h3 align="left">Een gepassioneerde developer uit Nederland.</h3><br>
 
